@@ -14,7 +14,6 @@ _Insert some project screenshots here._
 
 - **Responsive:** The layout adapts to different devices and screen sizes.
 - **Tweet Feed:** View a real-time list of tweets.
-- **Create Tweet:** Write and publish your own tweets.
 - **Replies and Retweets:** Interact with other people's tweets.
 - **Like and Share:** Show appreciation for your favorite tweets and share them with your followers.
 
