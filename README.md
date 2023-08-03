@@ -2,14 +2,6 @@
 
 This is a Twitter clone project built with React, TypeScript, and Styled-components, focusing on responsiveness to adapt seamlessly to various screen sizes.
 
-## Demo
-
-You can see a live demo of the project [here](https://your-demo-link-here.com).
-
-## Screenshots
-
-_Insert some project screenshots here._
-
 ## Features
 
 - **Responsive:** The layout adapts to different devices and screen sizes.
