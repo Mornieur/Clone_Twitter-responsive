@@ -19,13 +19,13 @@ Before getting started, make sure you have the following installed on your machi
 ## Getting Started
 
 1. Clone this repository to your local environment.
-   ```
-   git clone https://github.com/Mornieur/Clone_Twitter-resposive.git
-    ```
+```
+git clone https://github.com/Mornieur/Clone_Twitter-resposive.git
+```
 2. Navigate to the project directory.
-     ```
-    cd Clone_Twitter-resposive
-    ```
+```
+cd Clone_Twitter-resposive
+```
 3. Install project dependencies.
  ```
 yarn install
@@ -33,7 +33,7 @@ yarn install
 npm install
  ```
 4. Start the development server.
-  ```
+```
 yarn start
 # or
 npm start
