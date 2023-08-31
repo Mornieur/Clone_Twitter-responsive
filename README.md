@@ -13,7 +13,7 @@
 
 <div align='center'>
   <strong>
-  This is a Twitter clone project built with React, TypeScript, and Styled-components, focusing on responsiveness to adapt seamlessly to various screen sizes.
+  This Twitter clone project was built with React, TypeScript, and Styled-components, focusing on responsiveness to adapt seamlessly to various screen sizes.
 </strong>
 </div>
 
@@ -29,7 +29,7 @@
 Before getting started, make sure you have the following installed on your machine:
 
 - Node.js (https://nodejs.org)
-- Yarn (https://yarnpkg.com) or npm (included with Node.js)
+- Yarn (https://yarnpkg.com) or npm 
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ git clone https://github.com/Mornieur/Clone_Twitter-resposive.git
 2. Navigate to the project directory.
 
 ```
-cd Clone_Twitter-resposive
+cd Clone_Twitter-responsive
 ```
 
 3. Install project dependencies.
