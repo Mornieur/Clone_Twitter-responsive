@@ -36,7 +36,7 @@ Before getting started, make sure you have the following installed on your machi
 1. Clone this repository to your local environment.
 
 ```
-git clone https://github.com/Mornieur/Clone_Twitter-resposive.git
+git clone https://github.com/Mornieur/Clone_Twitter-responsive.git
 ```
 
 2. Navigate to the project directory.
